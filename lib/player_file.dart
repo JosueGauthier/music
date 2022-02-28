@@ -28,7 +28,7 @@ class MyAppBar extends StatelessWidget implements PreferredSizeWidget{
         icon: Icon(
           Icons.arrow_back,
           color: Colors.black,
-          size: 25,
+          size: 26,
         ),
         onPressed: null,
       ),
